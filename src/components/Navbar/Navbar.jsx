@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Logo from "./Logo";
-import NavLinks from "./Navlinks";
+import NavLinks from "./NavLinks";
 import MenuToggle from "./menutoggle";
 
 const Navbar = () => {
